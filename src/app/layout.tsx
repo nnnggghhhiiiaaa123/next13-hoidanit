@@ -19,7 +19,7 @@ export default function RootLayout({
         <div>Header Hoidanit</div>
         {children}
         <div>footer</div>
-        </body>
+      </body>
     </html>
   )
 }
